@@ -1,2 +1,2 @@
-# color-flipper
+# Color-Flipper
 Color flipper
